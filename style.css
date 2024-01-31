@@ -1,41 +1,4 @@
-/* body {
-  background-image: url('assets/background.jpg');
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-  .container {
-    width: 500px;
-    /* From https://css.glass 
-    background: rgba(255, 255, 255, 0.16);
-    border-radius: 16px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
-    border: 1px solid rgba(255, 255, 255, 0.3); Added transition property 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 30vh; 
-  }
-  
-  input[type="text"], button {
-    width: 80%;
-    margin-bottom: 10px;
-    padding: 10px;
-    font-size: 18px; 
-    transition: transform 0.3s ease-in-out; 
-  }
-  input[type="text"]:focus, button:hover {
-    transform: scale(1.05); 
-  }
-  img {
-    margin: 0 auto; 
-    max-width: 100%;
-    height: auto;
-  } */
-  body {
+body {
     background-image: url('assets/background.jpg');
     background-size: cover; /* Make sure the background image covers the entire viewport */
     background-position: center;
